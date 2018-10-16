@@ -1,0 +1,17 @@
+G:\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+G:\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+H:\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+H:\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
